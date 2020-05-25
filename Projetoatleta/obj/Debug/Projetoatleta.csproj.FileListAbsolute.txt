@@ -1,0 +1,10 @@
+C:\Users\Vinicius Neri\source\repos\Projetoatleta\bin\Debug\Projetoatleta.exe.config
+C:\Users\Vinicius Neri\source\repos\Projetoatleta\bin\Debug\Projetoatleta.exe
+C:\Users\Vinicius Neri\source\repos\Projetoatleta\bin\Debug\Projetoatleta.pdb
+C:\Users\Vinicius Neri\source\repos\Projetoatleta\obj\Debug\Projetoatleta.csprojAssemblyReference.cache
+C:\Users\Vinicius Neri\source\repos\Projetoatleta\obj\Debug\Projetoatleta.Form1.resources
+C:\Users\Vinicius Neri\source\repos\Projetoatleta\obj\Debug\Projetoatleta.Properties.Resources.resources
+C:\Users\Vinicius Neri\source\repos\Projetoatleta\obj\Debug\Projetoatleta.csproj.GenerateResource.cache
+C:\Users\Vinicius Neri\source\repos\Projetoatleta\obj\Debug\Projetoatleta.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Neri\source\repos\Projetoatleta\obj\Debug\Projetoatleta.exe
+C:\Users\Vinicius Neri\source\repos\Projetoatleta\obj\Debug\Projetoatleta.pdb
